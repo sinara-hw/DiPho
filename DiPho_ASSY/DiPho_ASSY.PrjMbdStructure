@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=DiPho_ASSY.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\DiPHO_Diode_AFE\DiPHO_Diode_AFE.PrjPcb
+Record=SubProject|SourceDocument=DiPho_ASSY.MbsDoc|ProjectPath=..\DiPHO_Diode_AFE\DiPHO_Diode_AFE.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DiPho_ASSY.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\DiPHO_PCB\DiPHO.PrjPcb
+Record=SubProject|SourceDocument=DiPho_ASSY.MbsDoc|ProjectPath=..\DiPHO_PCB\DiPHO.PrjPcb
