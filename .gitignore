@@ -1,0 +1,20 @@
+# Created by Piotr Daniel on 31.03.2021
+#
+#
+#
+# altium excessive files
+*.LOG
+*.zip
+#altium previews
+*.$$$Preview
+*.SchDocPreview
+#
+#
+/DiPho_analog/History/
+/DiPho_analog/Project Logs for DiPho_analog/
+/DiPho_digital/History/
+/DiPho_digital/Project Logs for DiPho_analog/
+#
+# not used yet
+/DiPho_adapter/
+
