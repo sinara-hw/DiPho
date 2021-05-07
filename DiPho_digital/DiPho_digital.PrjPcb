@@ -74,23 +74,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DUNDQLTB
 
 [Document3]
-DocumentPath=test.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KLPOTJVJ
-
-[Document4]
 DocumentPath=..\..\lib\Altium_WE-STST (rev20b)\WE-STST.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=..\..\lib\Altium_WE-STST (rev20b)\WE-STST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB_USB 2.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB_USB 3.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB_USB 3.1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\..\lib\WE-CNSW (rev20a)\WE-CNSW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\lib\WE-CNSW (rev20a)\WE-CNSW_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\..\lib\WE-CNSW (rev20a)\WE-CNSW_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\..\lib\WE-CNSW (rev20a)\WE-CNSW_1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\..\lib\WE-CNSW (rev20a)\WE-CNSW_1812.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\..\lib\DiPho\DiPho.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEIAHXFU
 
-[Document16]
+[Document15]
 DocumentPath=..\..\lib\DiPho\DiPho.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
