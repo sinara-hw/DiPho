@@ -105,7 +105,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GBFPMAAF
 
 [Document5]
 DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB.PcbLib
@@ -139,7 +139,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LPUXCGOP
 
 [Document7]
 DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB_USB 3.0.SchLib
@@ -173,7 +173,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RHBLYXEA
 
 [Document9]
 DocumentPath=..\..\lib\WE-CNSW (rev20a)\WE-CNSW.PcbLib
@@ -207,7 +207,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MIASFJHD
 
 [Document11]
 DocumentPath=..\..\lib\WE-CNSW (rev20a)\WE-CNSW_0805.SchLib
@@ -293,6 +293,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BWTEWLSG
+
+[Document16]
+DocumentPath=digital.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GBCKWPSB
 
 [Configuration1]
 Name=Sources
@@ -409,12 +426,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Brother HL-L2370DN series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1204,10 +1231,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=MCHP-KSZ8851SNL-MLF-32
+ComponentSymbolReference0=MCHP-KSZ8851SNL-MLF-32
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1221,6 +1254,75 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Brand
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=Data Rate
+ParameterUpdate3=1
+ParameterName4=Datasheet URL
+ParameterUpdate4=1
+ParameterName5=Datasheet Version
+ParameterUpdate5=1
+ParameterName6=Description
+ParameterUpdate6=1
+ParameterName7=Ethernet Connection Type
+ParameterUpdate7=1
+ParameterName8=Factory Pack Quantity
+ParameterUpdate8=1
+ParameterName9=Library Reference
+ParameterUpdate9=1
+ParameterName10=Manufacturer
+ParameterUpdate10=1
+ParameterName11=Manufacturer URL
+ParameterUpdate11=1
+ParameterName12=Maximum Operating Temperature
+ParameterUpdate12=1
+ParameterName13=Maximum Supply Current
+ParameterUpdate13=1
+ParameterName14=Minimum Operating Temperature
+ParameterUpdate14=1
+ParameterName15=Mounting Style
+ParameterUpdate15=1
+ParameterName16=Mounting Technology
+ParameterUpdate16=1
+ParameterName17=Number of Transceivers
+ParameterUpdate17=1
+ParameterName18=Package / Case
+ParameterUpdate18=1
+ParameterName19=Package Description
+ParameterUpdate19=1
+ParameterName20=Package Reference
+ParameterUpdate20=1
+ParameterName21=Packaging
+ParameterUpdate21=1
+ParameterName22=Product
+ParameterUpdate22=1
+ParameterName23=Product Category
+ParameterUpdate23=1
+ParameterName24=Protocol Supported
+ParameterUpdate24=1
+ParameterName25=RoHS
+ParameterUpdate25=1
+ParameterName26=Series
+ParameterUpdate26=1
+ParameterName27=Supply Voltage - Max
+ParameterUpdate27=1
+ParameterName28=Supply Voltage - Min
+ParameterUpdate28=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=MCHP-MLF-32_L
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=MCHP-MLF-32_M
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=MCHP-MLF-32_N
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
