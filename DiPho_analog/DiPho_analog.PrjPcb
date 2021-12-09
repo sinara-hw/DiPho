@@ -159,7 +159,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GCUPQYCF
 
 [Document8]
-DocumentPath=b2b_connector.Harness
+DocumentPath=analog.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -176,7 +176,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=analog.Harness
+DocumentPath=b2b_connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -891,9 +891,9 @@ Type30=1
 Type31=1
 Type32=1
 Type33=1
-Type34=1
-Type35=1
-Type36=1
+Type34=0
+Type35=0
+Type36=0
 Type37=1
 Type38=1
 Type39=1
