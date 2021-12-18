@@ -298,6 +298,10 @@ Variation38=Designator=R18|UniqueId=\WGYYBGHC|Kind=1|AlternatePart=
 Variation39=Designator=R17|UniqueId=\NYNMFBPA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DiPho_analog\Design Rule Check - DiPho_AFE.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
