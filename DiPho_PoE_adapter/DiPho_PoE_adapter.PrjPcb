@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=2
+HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -40,23 +40,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=analog.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IGUBOALT
-
-[Document2]
 DocumentPath=..\..\lib\DiPho\DiPho.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,9 +54,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DEIAHXFU
+DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=..\..\lib\DiPho\DiPho.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,10 +71,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BWTEWLSG
+DocumentUniqueId=
 
-[Document4]
-DocumentPath=DiPho_AFE.PcbDoc
+[Document3]
+DocumentPath=..\..\lib\Altium_WE-LAN (rev20b)\WE-LAN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -105,16 +88,33 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KRRUOFKK
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=..\..\lib\Altium_WE-LAN (rev20b)\WE-LAN.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=tia.SchDoc
+DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -122,16 +122,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FFBUZKPC
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=log.SchDoc
+DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB_USB 2.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -139,16 +139,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EVRRSRWM
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=b2b_connector.SchDoc
+DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB_USB 3.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -156,10 +156,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GCUPQYCF
+DocumentUniqueId=
 
 [Document8]
-DocumentPath=analog.Harness
+DocumentPath=..\..\lib\Altium_WR-USB (rev21a)\WR-USB_USB 3.1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -176,7 +176,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=b2b_connector.Harness
+DocumentPath=DiPho_PoE_adapter.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIJBIEQH
+
+[Document10]
+DocumentPath=DiPho_PoE_adapter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,116 +208,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[ProjectVariant1]
-UniqueID=D02A2509-E368-4F2F-A762-36AAC884DC13
-Description=TIA
-AllowFabrication=0
-ParameterCount=0
-VariationCount=27
-Variation1=Designator=U1|UniqueId=\YCRXBKEF|Kind=1|AlternatePart= 
-Variation2=Designator=R8|UniqueId=\HBAONBEO|Kind=1|AlternatePart= 
-Variation3=Designator=R7|UniqueId=\PQNKOPZU|Kind=1|AlternatePart= 
-Variation4=Designator=R6|UniqueId=\ODMTPCKA|Kind=1|AlternatePart= 
-Variation5=Designator=R3|UniqueId=\ASUDIEYM|Kind=1|AlternatePart= 
-Variation6=Designator=C3|UniqueId=\GZKLMWXV|Kind=1|AlternatePart= 
-Variation7=Designator=C5|UniqueId=\FVIOZZZK|Kind=1|AlternatePart= 
-Variation8=Designator=C9|UniqueId=\EORRDLBE|Kind=1|AlternatePart= 
-Variation9=Designator=FB1|UniqueId=\YMPDJGNN|Kind=1|AlternatePart= 
-Variation10=Designator=R16|UniqueId=\EKVIPSSO|Kind=1|AlternatePart= 
-Variation11=Designator=C6|UniqueId=\BBJGHPQJ|Kind=1|AlternatePart= 
-Variation12=Designator=C7|UniqueId=\NUVOOWMF|Kind=1|AlternatePart= 
-Variation13=Designator=C11|UniqueId=\DGPEPCKL|Kind=1|AlternatePart= 
-Variation14=Designator=R18|UniqueId=\OMDRCQGK|Kind=2|AlternatePart=0|AltLibLink_LibIdentifierKind=Library Name Only|AltLibLink_LibraryIdentifier=Altium Content Vault|AltLibLink_SymbolReference=RES|AltLibLink_DesignItemID=CMP-2000-00032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Altium Content Vault|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7|AltLibLink_ItemGUID=D9EA68F2-D5AB-4F96-8DE0-5206B6B75EC8|AltLibLink_RevisionGUID=EF8C7921-3061-44C1-8792-530113D689A2|AltLibLink_Footprint=RESC1608X55X30ML20T20|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue=0
-ParamDesignator1=R18
-ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=R18
-ParamVariation3=ParameterName=Description|VariantValue= 
-ParamDesignator3=R18
-ParamVariation4=ParameterName=Footprint|VariantValue=RESC1608X55X30ML20T20
-ParamDesignator4=R18
-ParamVariation5=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator5=R18
-ParamVariation6=ParameterName=Library Reference|VariantValue=CMP-2000-00032-1
-ParamDesignator6=R18
-ParamVariation7=ParameterName=Manufacturer|VariantValue=Panasonic
-ParamDesignator7=R18
-ParamVariation8=ParameterName=Part Number|VariantValue=ERA3AEB3161V
-ParamDesignator8=R18
-ParamVariation9=ParameterName=PCB3D|VariantValue= 
-ParamDesignator9=R18
-ParamVariation10=ParameterName=Pin Info|VariantValue= 
-ParamDesignator10=R18
-ParamVariation11=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator11=R18
-ParamVariation12=ParameterName=Simulation|VariantValue= 
-ParamDesignator12=R18
-Variation15=Designator=R9|UniqueId=\VOWGQOWY|Kind=1|AlternatePart= 
-Variation16=Designator=R12|UniqueId=\WQMAYOIE|Kind=1|AlternatePart= 
-Variation17=Designator=R14|UniqueId=\RPQHQWQS|Kind=1|AlternatePart= 
-Variation18=Designator=R?|UniqueId=\FQJEHIVU|Kind=1|AlternatePart= 
-Variation19=Designator=R20|UniqueId=\YGNHODMW|Kind=1|AlternatePart= 
-Variation20=Designator=R8|UniqueId=\JPLDVAYL|Kind=1|AlternatePart= 
-Variation21=Designator=R10|UniqueId=\MJLRUJPW|Kind=1|AlternatePart= 
-Variation22=Designator=R11|UniqueId=\YBDATNQY|Kind=1|AlternatePart= 
-Variation23=Designator=R6|UniqueId=\EDJPLHIW|Kind=1|AlternatePart= 
-Variation24=Designator=R7|UniqueId=\MTDGGPBS|Kind=1|AlternatePart= 
-Variation25=Designator=L1|UniqueId=\OWIMQUNF|Kind=1|AlternatePart= 
-Variation26=Designator=R19|UniqueId=\QYHOOICY|Kind=1|AlternatePart= 
-Variation27=Designator=R16|UniqueId=\PWHNNBFN|Kind=1|AlternatePart= 
-ParamVariationCount=12
-
-[ProjectVariant2]
-UniqueID=7467EEAE-A3EB-4775-B124-73BFDA6FF5D8
-Description=LOG
-AllowFabrication=0
-ParameterCount=0
-VariationCount=39
-Variation1=Designator=U3|UniqueId=\RKSDKGOP|Kind=1|AlternatePart= 
-Variation2=Designator=C1|UniqueId=\LMYDSNLE|Kind=1|AlternatePart= 
-Variation3=Designator=C2|UniqueId=\GQMTSCUK|Kind=1|AlternatePart= 
-Variation4=Designator=C6|UniqueId=\AQUJWGOW|Kind=1|AlternatePart= 
-Variation5=Designator=C9|UniqueId=\LEMALDJR|Kind=1|AlternatePart= 
-Variation6=Designator=R1|UniqueId=\NVBEZFFS|Kind=1|AlternatePart= 
-Variation7=Designator=R3|UniqueId=\ACBPWVIR|Kind=1|AlternatePart= 
-Variation8=Designator=R4|UniqueId=\PSAFWCFR|Kind=1|AlternatePart= 
-Variation9=Designator=R7|UniqueId=\DKEPJMJF|Kind=1|AlternatePart= 
-Variation10=Designator=U2|UniqueId=\TAUHOCHE|Kind=1|AlternatePart= 
-Variation11=Designator=C12|UniqueId=\FGFVVNQJ|Kind=1|AlternatePart= 
-Variation12=Designator=C10|UniqueId=\BCCARDBF|Kind=1|AlternatePart= 
-Variation13=Designator=R14|UniqueId=\PWAGOVCA|Kind=1|AlternatePart= 
-Variation14=Designator=R10|UniqueId=\FXNLKUGU|Kind=1|AlternatePart= 
-Variation15=Designator=R12|UniqueId=\EGJIRJMR|Kind=1|AlternatePart= 
-Variation16=Designator=R15|UniqueId=\EKVIPSSO|Kind=1|AlternatePart= 
-Variation17=Designator=R?|UniqueId=\HKCCKNLC|Kind=1|AlternatePart= 
-Variation18=Designator=U?|UniqueId=\FYRMJSXE|Kind=1|AlternatePart= 
-Variation19=Designator=C?|UniqueId=\QHXHIDWI|Kind=1|AlternatePart= 
-Variation20=Designator=R?|UniqueId=\FOSTEIOG|Kind=1|AlternatePart= 
-Variation21=Designator=FB?|UniqueId=\AINEENKG|Kind=1|AlternatePart= 
-Variation22=Designator=C?|UniqueId=\BGOFEPMO|Kind=1|AlternatePart= 
-Variation23=Designator=U3|UniqueId=\QSWNVSUG|Kind=1|AlternatePart= 
-Variation24=Designator=U4|UniqueId=\JWTAFCCO|Kind=1|AlternatePart= 
-Variation25=Designator=U2|UniqueId=\BGKJXOCL|Kind=1|AlternatePart= 
-Variation26=Designator=R12|UniqueId=\AXNDYCQV|Kind=1|AlternatePart= 
-Variation27=Designator=R13|UniqueId=\GACBTCNH|Kind=1|AlternatePart= 
-Variation28=Designator=R9|UniqueId=\RFWAZAWZ|Kind=1|AlternatePart= 
-Variation29=Designator=L2|UniqueId=\JMSYJMYA|Kind=1|AlternatePart= 
-Variation30=Designator=R5|UniqueId=\NATCPZFC|Kind=1|AlternatePart= 
-Variation31=Designator=C8|UniqueId=\CHBFBRYE|Kind=1|AlternatePart= 
-Variation32=Designator=R4|UniqueId=\YHGOPDKG|Kind=1|AlternatePart= 
-Variation33=Designator=C4|UniqueId=\VWXECVTP|Kind=1|AlternatePart= 
-Variation34=Designator=R2|UniqueId=\LGFLYNIS|Kind=1|AlternatePart= 
-Variation35=Designator=C2|UniqueId=\MZJNXNSJ|Kind=1|AlternatePart= 
-Variation36=Designator=R1|UniqueId=\YLQAGYCJ|Kind=1|AlternatePart= 
-Variation37=Designator=C1|UniqueId=\SWLNJVKL|Kind=1|AlternatePart= 
-Variation38=Designator=R18|UniqueId=\WGYYBGHC|Kind=1|AlternatePart= 
-Variation39=Designator=R17|UniqueId=\NYNMFBPA|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DiPho_analog\Design Rule Check - DiPho_AFE.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -895,9 +802,9 @@ Type30=1
 Type31=1
 Type32=1
 Type33=1
-Type34=0
-Type35=0
-Type36=0
+Type34=1
+Type35=1
+Type36=1
 Type37=1
 Type38=1
 Type39=1
@@ -1181,14 +1088,14 @@ Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWNWNWNWNWN
-L3=NWEENEEENNEWNEEWN
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NNNENEEENNEWNEEWW
+L9=NWEENEEEENEWNEEWW
 L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
@@ -1220,22 +1127,10 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=DiPho.SchLib
-ComponentDesignItemID0=BPW34
-ComponentSymbolReference0=BPW34
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=DiPho.SchLib
-ComponentDesignItemID1=SFH2201
-ComponentSymbolReference1=SFH2201
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1249,146 +1144,12 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Breakdown Voltage
-ParameterUpdate0=1
-ParameterName1=Case/Package
-ParameterUpdate1=1
-ParameterName2=Category
-ParameterUpdate2=1
-ParameterName3=Comment
-ParameterUpdate3=1
-ParameterName4=Component Kind
-ParameterUpdate4=1
-ParameterName5=ComponentLink10Description
-ParameterUpdate5=1
-ParameterName6=ComponentLink10URL
-ParameterUpdate6=1
-ParameterName7=ComponentLink11Description
-ParameterUpdate7=1
-ParameterName8=ComponentLink11URL
-ParameterUpdate8=1
-ParameterName9=ComponentLink1Description
-ParameterUpdate9=1
-ParameterName10=ComponentLink1URL
-ParameterUpdate10=1
-ParameterName11=ComponentLink2Description
-ParameterUpdate11=1
-ParameterName12=ComponentLink2URL
-ParameterUpdate12=1
-ParameterName13=ComponentLink3Description
-ParameterUpdate13=1
-ParameterName14=ComponentLink3URL
-ParameterUpdate14=1
-ParameterName15=ComponentLink4Description
-ParameterUpdate15=1
-ParameterName16=ComponentLink4URL
-ParameterUpdate16=1
-ParameterName17=ComponentLink5Description
-ParameterUpdate17=1
-ParameterName18=ComponentLink5URL
-ParameterUpdate18=1
-ParameterName19=ComponentLink6Description
-ParameterUpdate19=1
-ParameterName20=ComponentLink6URL
-ParameterUpdate20=1
-ParameterName21=ComponentLink7Description
-ParameterUpdate21=1
-ParameterName22=ComponentLink7URL
-ParameterUpdate22=1
-ParameterName23=ComponentLink8Description
-ParameterUpdate23=1
-ParameterName24=ComponentLink8URL
-ParameterUpdate24=1
-ParameterName25=ComponentLink9Description
-ParameterUpdate25=1
-ParameterName26=ComponentLink9URL
-ParameterUpdate26=1
-ParameterName27=Contact Plating
-ParameterUpdate27=1
-ParameterName28=Dark Current
-ParameterUpdate28=1
-ParameterName29=Description
-ParameterUpdate29=1
-ParameterName30=Diode Type
-ParameterUpdate30=1
-ParameterName31=Fall Time
-ParameterUpdate31=1
-ParameterName32=Height
-ParameterUpdate32=1
-ParameterName33=Lead Free
-ParameterUpdate33=1
-ParameterName34=Length
-ParameterUpdate34=1
-ParameterName35=Lens Style
-ParameterUpdate35=1
-ParameterName36=Library Reference
-ParameterUpdate36=1
-ParameterName37=Manufacturer
-ParameterUpdate37=1
-ParameterName38=Manufacturer Part Number
-ParameterUpdate38=1
-ParameterName39=Max Operating Temperature
-ParameterUpdate39=1
-ParameterName40=Max Power Dissipation
-ParameterUpdate40=1
-ParameterName41=Max Reverse Voltage (DC)
-ParameterUpdate41=1
-ParameterName42=Min Operating Temperature
-ParameterUpdate42=1
-ParameterName43=Mount
-ParameterUpdate43=1
-ParameterName44=Number of Pins
-ParameterUpdate44=1
-ParameterName45=Package Quantity
-ParameterUpdate45=1
-ParameterName46=Packaging
-ParameterUpdate46=1
-ParameterName47=Power Dissipation
-ParameterUpdate47=1
-ParameterName48=Pricing 1
-ParameterUpdate48=1
-ParameterName49=Radiation Hardening
-ParameterUpdate49=1
-ParameterName50=REACH SVHC
-ParameterUpdate50=1
-ParameterName51=Reverse Breakdown Voltage
-ParameterUpdate51=1
-ParameterName52=Reverse Voltage (DC)
-ParameterUpdate52=1
-ParameterName53=Rise Time
-ParameterUpdate53=1
-ParameterName54=RoHS
-ParameterUpdate54=1
-ParameterName55=Stock 1
-ParameterUpdate55=1
-ParameterName56=Supplier 1
-ParameterUpdate56=1
-ParameterName57=Supplier Part Number 1
-ParameterUpdate57=1
-ParameterName58=Viewing Angle
-ParameterUpdate58=1
-ParameterName59=Wavelength
-ParameterUpdate59=1
-ParameterName60=Width
-ParameterUpdate60=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=BPW34
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=SFH_2201
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=P3V3|NetColor=$00EB9E6D
-Net2=NetName=P5V0|NetColor=clBlue
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

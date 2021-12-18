@@ -1,6 +1,6 @@
 # DiPho
 
-Digital photodiode with wired and wireless interfaces
+Digital photodiode with USB and Ethernet interfaces
 
 ## Design Files
 

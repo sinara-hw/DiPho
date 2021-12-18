@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=analog.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=analog.SchDoc|Designator=B2B Connector|SchDesignator=B2B Connector|FileName=b2b_connector.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=b2b_connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=analog.SchDoc|Designator=LOG Amplifier|SchDesignator=LOG Amplifier|FileName=log.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=log.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=analog.SchDoc|Designator=TI Amplifier|SchDesignator=TI Amplifier|FileName=tia.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=tia.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=analog.SchDoc|FileName=DiPho_AFE.SchDoc|SheetNumber=1
