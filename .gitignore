@@ -10,6 +10,7 @@
 *.SchDocPreview
 #
 #
+/production
 /DiPho_AFE/History/
 /DiPho_AFE/Project Logs for DiPho_analog/
 /DiPho_digital/History/
