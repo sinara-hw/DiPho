@@ -1,4 +1,2 @@
-Record=DiagramHierarchy|SourceDocument=DiPho.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\DiPho_analog\DiPho_analog.PrjPcb
-Record=SubProject|SourceDocument=DiPho.MbsDoc|ProjectPath=..\DiPho_analog\DiPho_analog.PrjPcb
 Record=DiagramHierarchy|SourceDocument=DiPho.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\DiPho_digital\DiPho_digital.PrjPcb
 Record=SubProject|SourceDocument=DiPho.MbsDoc|ProjectPath=..\DiPho_digital\DiPho_digital.PrjPcb
