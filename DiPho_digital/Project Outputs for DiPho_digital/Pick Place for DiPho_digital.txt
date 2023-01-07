@@ -1,0 +1,81 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Documents\Sinara\Altium\DiPho\DiPho_digital\Project Outputs for DiPho_digital\Pick Place for DiPho_digital.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07.01.23
+Time:       12:07
+Revision:   ca723959ba4efa0e1e27a2534c6b78f4a2dbeb5d
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer       Footprint                   Center-X(mm) Center-Y(mm) Rotation 
+R7         1k5             TopLayer    RESC1005X40N                17.7038      3.9370       315      
+R6         1k5             TopLayer    RESC1005X40N                5.1054       13.2334      180      
+J1         0733660062      TopLayer    73366-0062                  17.7292      18.3642      48       
+IC4        NCP115ASN330T2G TopLayer    SOT95P275X110-5N            12.2936      16.6878      135      
+D2         BAT54HT1G       TopLayer    SOD2513X100N                11.1506      21.9710      135      
+SW1        450301014042    TopLayer    450301014042                7.9248       11.1252      180      
+P1         691347000002B   TopLayer    691347000002B               7.5250       6.9088       180      
+LD2        Yellow          TopLayer    LED_LITEON_LTST-C193KSKT-5A 11.9634      8.2042       90       
+LD1        Green           TopLayer    LED_LITEON_LTST-C193KGKT-5A 13.5382      8.2042       90       
+L5         DLW32MH201XK2L  TopLayer    FP-DLW32MH201XK2L-MFG       15.0110      13.3100      90       
+L4         150uH           TopLayer    IND_COILCRAFT_LPD5030       14.1732      4.2418       10       
+C18        100nF           TopLayer    CAPC1005X55N                14.2494      10.3000      270      
+C19        100nF           TopLayer    CAPC1005X55N                13.3096      10.8588      270      
+C22        2.2uF           TopLayer    CAPC1005X55N                13.0556      19.3548      225      
+C14        100nF           TopLayer    CAPC1005X55N                17.9832      4.9022       315      
+TP3        S2761-46R       TopLayer    S2761-46R                   3.0734       8.7630       270      
+IC1        STM32F103T8U6   TopLayer    STM-VFQFPN36_L              19.0164      9.3210       225      
+ICSP1      TC2030-IDC-NL   TopLayer    TC2030-IDC-NL               21.8322      14.1940      135      
+J2         5022370517      TopLayer    502237-0517                 6.8889       18.5475      225      
+L2         600R@100MHz     TopLayer    INDC1005X55N                13.4112      20.9042      45       
+R4         100k            TopLayer    RESC1005X40N                19.5834      4.3688       225      
+C16        10uF            TopLayer    CAPC1608X80N                12.4714      22.6822      315      
+D3         DRTR5V0U4S-7    TopLayer    SOT65P210X110-6N            8.1534       14.3256      45       
+L3         90R@100MHz      TopLayer    IND_MURATA_DLW21S           11.3420      13.2398      0        
+C15        100nF           TopLayer    CAPC1005X55N                14.5542      7.8994       90       
+C13        100nF           TopLayer    CAPC1005X55N                23.3172      10.6934      135      
+C27        100nF           BottomLayer CAPC1005X55N                13.8430      11.2268      180      
+C26        100nF           BottomLayer CAPC1005X55N                9.1186       11.2522      90       
+C23        100nF           BottomLayer CAPC1005X55N                10.3124      23.1394      210      
+IC5        NCN26010XMNTXG  BottomLayer QFN40P400X400X100_HS-33N    11.0686      14.7798      270      
+T1         DMP2066LSN-7    BottomLayer SOT95P285X140-3N            3.2870       12.7508      0        
+IC3        TLV76750DRVR    BottomLayer SON65P200X80_HS-7N          6.4734       4.3724       135      
+D1         BZX84C7V5       BottomLayer SOT95P240X130-3N            6.7056       12.4714      270      
+C8         4.7uF           BottomLayer CAPC1709X95N                4.1656       6.5024       315      
+C7         4.7uF           BottomLayer CAPC1709X95N                8.1534       5.1054       315      
+R13        2k              BottomLayer RESC1005X40N                15.6210      14.8844      0        
+R8         10k             BottomLayer RESC1005X40N                18.1610      16.2684      0        
+R10        49R9            BottomLayer RESC2012X60N                12.0650      9.6266       270      
+R12        3k3             BottomLayer RESC1005X40N                15.5956      15.6718      0        
+R11        49R9            BottomLayer RESC2012X60N                3.2000       9.4500       270      
+R9         3k3             BottomLayer RESC1608X55N                15.0742      13.8938      0        
+OSC2       25MHz           BottomLayer OSC_ABRACON_ASE             12.3444      21.6916      210      
+OSC1       8MHz            BottomLayer OSC_ABRACON_ASE             22.1996      14.0970      195      
+L6         1k@100MHz       BottomLayer INDC1608X100N               15.7734      20.1168      180      
+D5         ESD7241N2T5G    BottomLayer DFN65P100X40-2N             9.4488       5.5118       180      
+D4         ESD7241N2T5G    BottomLayer DFN65P100X40-2N             4.8768       7.5946       270      
+C20        220nF           BottomLayer CAPC2012X135N               9.6012       9.0424       180      
+C21        220nF           BottomLayer CAPC2012X135N               6.0000       9.0388       0        
+C17        10uF            BottomLayer CAPC2012X145N               11.8110      7.1628       180      
+C25        2.2uF           BottomLayer CAPC1005X55N                11.9380      18.3388      180      
+C24        2.2uF           BottomLayer CAPC1005X55N                8.1788       15.1638      270      
+C3         100nF           BottomLayer CAPC1005X55N                19.6850      16.7256      270      
+C5         1uF             BottomLayer CAPC1608X87N                16.1290      18.0594      270      
+R5         100k            BottomLayer RESC1005X40N                19.1741      19.5355      135      
+IC2        MCP47CMB02-E/MG BottomLayer QFN127P600-8N               13.6884      3.9758       270      
+C1         10nF            BottomLayer CAPC1005X55N                11.3030      5.3718       270      
+R3         100k            BottomLayer RESC1005X40N                14.0462      7.5946       90       
+C2         100nF           BottomLayer CAPC1005X55N                10.4394      5.3718       270      
+R2         4k7             BottomLayer RESC1005X40N                17.0942      3.2258       0        
+L1         600R@100MHz     BottomLayer INDC1005X55N                22.5552      9.5758       0        
+R1         4k7             BottomLayer RESC1005X40N                19.3040      4.5720       180      
+C12        4.7uF           BottomLayer CAPC1709X95N                17.0180      4.3942       0        
+C9         4.7uF           BottomLayer CAPC1709X95N                21.8186      7.8232       90       
+C11        10nF            BottomLayer CAPC1005X55N                22.5298      10.9220      90       
+C10        1uF             BottomLayer CAPC1005X55N                21.6408      10.9220      90       
+C4         100nF           BottomLayer CAPC1005X55N                19.8856      20.2464      315      
+C6         1uF             BottomLayer CAPC1608X87N                9.2456       19.3040      315      
+J3         53307-1671      BottomLayer 533071671                   18.0500      9.2500       180      

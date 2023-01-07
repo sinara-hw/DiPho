@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Documents\Sinara\Altium\DiPho\DiPho_AFE\Project Outputs for DiPho_AFE\Pick Place for DiPho_AFE.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07.01.23
+Time:       11:48
+Revision:   ca723959ba4efa0e1e27a2534c6b78f4a2dbeb5d
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer       Footprint              Center-X(mm) Center-Y(mm) Rotation Description                                                                                               
+R7         10k2              TopLayer    RESC1005X40N           18.9230      21.1074      0        "Resistor - 1%"                                                                                           
+R8         2k2               TopLayer    RESC1005X40N           17.1704      21.1074      180      "Resistor - 1%"                                                                                           
+IC3        BD00HC5WEFJ-E2    TopLayer    TSOP127P600X100_HS-9L  17.6022      17.2554      270      "LDO Regulator Pos 0.8V to 4.5V 1.5A 8-Pin HTSOP-J EP T/R"                                                
+C10        4.7uF             TopLayer    CAPC1709X95N           21.0566      18.1864      90       "Non-polarised capacitor"                                                                                 
+C4         1nF               TopLayer    CAPC1005X55N           17.6276      22.0218      0        "Non-polarised capacitor"                                                                                 
+R19        10k               TopLayer    RESC1005X35N           3.1750       16.8402      90       "Resistor - 0.1%"                                                                                         
+IC1        TLV9002SIRUGR     TopLayer    QFN50P150X200X40-10N   6.1468       16.2814      90       "Rail-to-Rail Input/Output Operational Amplifier Dual 1.8V to 5.5V 10-Pin X2QFN T/R"                      
+R18        10k               TopLayer    RESC1005X35N           13.5382      21.5392      90       "Resistor - 0.1%"                                                                                         
+R17        10k               TopLayer    RESC1005X35N           11.9380      21.6154      0        "Resistor - 0.1%"                                                                                         
+C18        100nF             TopLayer    CAPC1005X55N           8.2550       12.4714      270      "Non-polarised capacitor"                                                                                 
+R12        324k              TopLayer    RESC1005X40N           6.9342       13.5145      180      "Resistor - 0.1%"                                                                                         
+R11        32k4              TopLayer    RESC1005X40N           6.9342       11.6384      180      "Resistor - 0.1%"                                                                                         
+R10        3k24              TopLayer    RESC1005X40N           11.4300      15.4940      270      "Resistor - 0.1%"                                                                                         
+R9         324               TopLayer    RESC1005X40N           9.5504       15.4940      270      "Resistor - 0.1%"                                                                                         
+R6         10k               TopLayer    RESC1005X40N           22.1742      12.8016      180      "Resistor - 1%"                                                                                           
+R3         10k               TopLayer    RESC1005X35N           13.2588      16.8402      270      "Resistor - 0.1%"                                                                                         
+CLIP4      "Clip 1 Pin"      TopLayer    MSBOX_HARWIN_S1721-46  9.0666       5.3334       0        "Surface Mount Clip for PCB Screening Covers"                                                             
+CLIP3      "Clip 1 Pin"      TopLayer    MSBOX_HARWIN_S1721-46  14.0666      12.8334      90       "Surface Mount Clip for PCB Screening Covers"                                                             
+CLIP2      "Clip 1 Pin"      TopLayer    MSBOX_HARWIN_S1721-46  9.0666       20.3334      180      "Surface Mount Clip for PCB Screening Covers"                                                             
+CLIP1      "Clip 1 Pin"      TopLayer    MSBOX_HARWIN_S1721-46  4.0666       12.8334      90       "Surface Mount Clip for PCB Screening Covers"                                                             
+C12        4.7nF             TopLayer    CAPC1005X55N           10.4902      15.4940      270      "Non-polarised capacitor"                                                                                 
+C7         10uF              TopLayer    CAPC2012X135N          22.1234      14.9606      270      "Non-polarised capacitor"                                                                                 
+C6         100nF             TopLayer    CAPC1005X55N           16.2306      4.0894       90       "Non-polarised capacitor"                                                                                 
+C5         100nF             TopLayer    CAPC1005X55N           10.2870      16.8148      180      "Non-polarised capacitor"                                                                                 
+C3         100nF             TopLayer    CAPC1005X55N           7.1628       18.0216      180      "Non-polarised capacitor"                                                                                 
+IC8        AD8541ARTZ-REEL7  TopLayer    ADI-RJ-5_N             10.6680      12.9286      180      "Single Channel RRIO Operational Amplifier, 1 MHz BW, 920 mV/us SR, Industrial, 5-pin SOT23 (RJ-5), Reel" 
+IC4        AT24MAC402-MAHM-T TopLayer    FP-C04-21355-Q4B-MFG   13.5382      3.1496       0        "IC EEPROM 2K I2C 1MHZ 8UDFN"                                                                             
+R14        10k               TopLayer    RESC1005X40N           17.7800      4.5466       180      "Resistor - 1%"                                                                                           
+L2         600R@100MHz       TopLayer    INDC1005X55N           11.5316      22.8346      180      ""                                                                                                        
+IC2        TLV9002SIRUGR     TopLayer    QFN50P150X200X40-10N   10.5918      18.3642      270      "Rail-to-Rail Input/Output Operational Amplifier Dual 1.8V to 5.5V 10-Pin X2QFN T/R"                      
+IC6        MAX4639EUE+T      TopLayer    TSOP65P640X110-16L     9.4730       8.5344       180      "MAX4639 Series SP4T 2.5V 3.5 Ohm Surface Mount Analog Switch - TSSOP-16"                                 
+R13        0                 TopLayer    RESC1005X40N           11.9634      16.8148      0        Resistor                                                                                                  
+R5         1k                TopLayer    RESC1005X40N           8.6614       17.5514      270      "Resistor - 1%"                                                                                           
+R4         470               TopLayer    RESC1005X40N           13.3350      18.5420      270      "Resistor - 1%"                                                                                           
+R2         470               TopLayer    RESC1005X40N           5.6134       19.0500      0        "Resistor - 1%"                                                                                           
+R1         10k               TopLayer    RESC1005X35N           5.3594       18.0216      0        "Resistor - 0.1%"                                                                                         
+J1         52465-1671        TopLayer    524651671              18.0500      9.2500       0        "A Connector for Board - Board Connections with A 0.80 mm Pitch. (Molex)"                                 
+C17        100nF             TopLayer    CAPC1005X55N           9.6520       22.8346      0        "Non-polarised capacitor"                                                                                 
+C16        4.7uF             TopLayer    CAPC1709X95N           9.1694       21.6408      0        "Non-polarised capacitor"                                                                                 
+C15        100nF             TopLayer    CAPC1005X55N           5.3594       7.2390       90       "Non-polarised capacitor"                                                                                 
+C14        47pF              TopLayer    CAPC1005X55N           6.9342       14.4526      180      "Non-polarised capacitor"                                                                                 
+C13        470pF             TopLayer    CAPC1005X55N           6.9342       12.5765      180      "Non-polarised capacitor"                                                                                 
+C11        47nF              TopLayer    CAPC1005X55N           8.6106       15.4940      270      "Non-polarised capacitor"                                                                                 
+C8         10uF              TopLayer    CAPC2012X135N          22.1488      10.6426      270      "Non-polarised capacitor"                                                                                 
+C2         680nF             TopLayer    CAPC1005X55N           12.3952      18.5550      270      "Non-polarised capacitor"                                                                                 
+C1         10nF              TopLayer    CAPC1005X55N           7.8994       18.9230      180      "Non-polarised capacitor"                                                                                 
+D3         VBPW34S           BottomLayer SOT0P705X130-2M        12.8800      12.7000      180      "IR-photodiode Photoelectric current: 45...55 uA Wavelength of max. photosensitivity: 940 nm"             
+D1         OPR5913           BottomLayer LCCS249P899X899X167-8N 12.7000      12.7000      270      "Surface mount PIN photodiode, SMD-8, RoHS"                                                               
+D2         SFH2201           BottomLayer SFH_2201               13.0900      12.7000      0        ""                                                                                                        
