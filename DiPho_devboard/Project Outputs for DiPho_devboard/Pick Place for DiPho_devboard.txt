@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+\\Mac\Home\Documents\Sinara\Altium\DiPho\DiPho_devboard\Project Outputs for DiPho_devboard\Pick Place for DiPho_devboard.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16.01.23
+Time:       15:51
+Revision:   3099902e7257fac2d2c0058a157a72a098453e55
+Variant:    No variations
+Units used: mm
+
+Designator Comment    Layer    Footprint         Center-X(mm) Center-Y(mm) Rotation Description                                                                                                 
+TP5        5007       TopLayer KSTN-5012_V       34.6262      10.7854      0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+TP10       5006       TopLayer KSTN-5011_V       54.6100      24.3840      0        "Test Point, Black, Through Hole, RoHS, Bulk"                                                               
+TP8        5007       TopLayer KSTN-5012_V       60.8358      18.4150      0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+TP7        5007       TopLayer KSTN-5012_V       39.7246      8.8500       0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+TP9        5006       TopLayer KSTN-5011_V       34.5440      24.3840      0        "Test Point, Black, Through Hole, RoHS, Bulk"                                                               
+TP4        5007       TopLayer KSTN-5012_V       52.2214      5.0800       0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+TP1        5007       TopLayer KSTN-5012_V       58.4698      3.1750       0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+TP6        5007       TopLayer KSTN-5012_V       45.9730      7.1120       0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+TP3        5007       TopLayer KSTN-5012_V       67.1557      20.3200      0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+TP2        5007       TopLayer KSTN-5012_V       54.5159      16.5100      0        "Test Point, White, Through Hole, RoHS, Bulk"                                                               
+P1         22-28-4033 TopLayer MOLX-22-28-4033_V 67.9693      25.5537      0        "Male Header, Pitch 2.54 mm, 1 x 3 Position, Height 8.38 mm, Tail Length 3.18 mm, RoHS, Bulk"               
+J2         53307-1671 TopLayer 533071671         79.5500      11.6500      0        "0.80mm Pitch Header Surface Mount Dual Row Vertical Stacking 4.50 and 5.50mm Stacking Heights 16 Circuits" 
+J1         52465-1671 TopLayer 524651671         20.4500      11.6500      0        "A Connector for Board - Board Connections with A 0.80 mm Pitch. (Molex)"                                   

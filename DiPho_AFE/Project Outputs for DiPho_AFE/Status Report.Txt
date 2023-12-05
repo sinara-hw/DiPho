@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DiPho_AFE.PrjPcb]
+   Generated File[DiPho_AFE.TXT]
+   Generated File[DiPho_AFE.DRL]
+   Generated File[DiPho_AFE.LDP]
+   Generated File[DiPho_AFE.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:26:13 On 22.02.2023

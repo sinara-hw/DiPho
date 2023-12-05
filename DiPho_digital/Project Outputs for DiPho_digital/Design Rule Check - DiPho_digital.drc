@@ -1,0 +1,81 @@
+Protel Design System Design Rule Check
+PCB File : \\Mac\Home\Documents\Sinara\Altium\DiPho\DiPho_digital\DiPho_digital.PcbDoc
+Date     : 28.02.2023
+Time     : 11:20:25
+
+Processing Rule : Clearance Constraint (Gap=0mm) (IsPad),(IsVia)
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad C10-2(21.641mm,11.372mm) on Bottom Layer And Via (21.768mm,11.811mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad IC1-12(17.726mm,12.026mm) on Top Layer And Via (17.306mm,12.445mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad IC4-3(13.92mm,16.405mm) on Top Layer And Via (14.326mm,16.002mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad IC5-8(12.469mm,16.78mm) on Bottom Layer And Via (12.675mm,16.662mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad J3-10(20.1mm,7.25mm) on Bottom Layer And Via (19.736mm,7.343mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad J3-15(20.1mm,11.25mm) on Bottom Layer And Via (19.837mm,11.252mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad J3-8(16mm,6.45mm) on Bottom Layer And Via (16.668mm,6.478mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.01mm) Between Pad LD2-2(11.963mm,8.954mm) on Top Layer And Via (11.963mm,9.479mm) from Top Layer to Bottom Layer 
+Rule Violations :8
+
+Processing Rule : Clearance Constraint (Gap=0mm) (IsPad and InNet('GND')),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=1816.048mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
+   Violation between Acute Angle Constraint: (50,254 < 60,000) Between Pad C14-1(17.665mm,5.22mm) on Top Layer And Via (17.408mm,5.664mm) from Top Layer to Bottom Layer (Angle = 50,254)
+   Violation between Acute Angle Constraint: (55,204 < 60,000) Between Pad LD1-2(13.538mm,8.954mm) on Top Layer And Region (0 hole(s)) Top Layer (Angle = 55,204)
+Rule Violations :2
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "2022" (22.508mm,16.499mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "DiPho
+v2.0" (4.161mm,5.237mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "ISE" (21.554mm,18.232mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "WUT" (19.047mm,21.04mm) on Top Overlay 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 14
+Waived Violations : 0
+Time Elapsed        : 00:00:03

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DiPho_devboard.PcbDoc   22.02.2023  11:29:45
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DiPho_devboard.TXT
+EIA File   : DiPho_devboard.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             213       PTH        795.55mm (31.32inch)
+T2      1.02mm (40mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T3      1.4mm (55mil)                                             Round             4         PTH        104.74mm (4.12inch)
+T4      1.6mm (63mil)                                             Round             10        PTH        93.55mm (3.68inch)
+T5      3mm (118mil)                                              Round             4         PTH        142.00mm (5.59inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              234
+
+Total Processing Time (hh:mm:ss) : 00:00:00

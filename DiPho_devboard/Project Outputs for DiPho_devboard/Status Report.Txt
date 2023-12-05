@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DiPho_devboard.PrjPcb]
+   Generated File[DiPho_devboard.TXT]
+   Generated File[DiPho_devboard.DRL]
+   Generated File[DiPho_devboard.LDP]
+   Generated File[DiPho_devboard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:29:45 On 22.02.2023
